@@ -35,7 +35,7 @@ learning ☕.
 
 
 ### White-paper published in:
-* Threat Horizon Pakistan episode 1.
+* Threat Horizon Pakistan episode 1. https://www.linkedin.com/showcase/iseewaves-pca/posts/
 
 ### Soft skills:
 * Strong communication |Problem-Solving | Analytical Abilities | Critical Thinking | Collaborative | Time Management | Adaptability in dynamic Environment
