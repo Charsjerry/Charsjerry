@@ -7,6 +7,20 @@ evidence, skilled in data recovery, incident analysis, and forensic tools. Adapt
 integrity and supporting investigations with a keen eye for detail and a commitment to continuous
 learning ☕.
 
+### Certifications:
+* Basics in operation management
+* Security Awareness for Everyone
+* ISO/IEC 27032:2023 Guidelines For Cybersecurity Foundations 
+* Certified Cybersecurity Educator professional (CCEP)
+* Critical Thinking For DPOs - Prerequisite To The Forensic Criminology And Investigations
+* PrivacyOps Certification
+* ISO 31000 Foundation:2018 Risk Management
+* ISO 27001 Foundation - Information Security Certification
+  
+
+### Membership : 
+* Cybersecurity Experts Association of Nigeria(Affiliate member)
+
 
 ### Digital Forensics Projects: 
 * Uvm Assignment Scandal.
@@ -15,7 +29,8 @@ learning ☕.
 
 
 ### Key Achievement:
-* Training: Conducted remote training for a community online with the title internet4safety.
+* Training: Conducted remote training for a community online titled internet4safety.(Charity Squad)
+* Training: Conducted remote training for a group of Trainers online titled Tech4safety.( DOBI Teenage Foundations)
 * Leadership: Led a team of 6 to give a podcast titled: The Psychology of cybercriminals & Insider Threat Analysis.(Phillipine)
 
 
@@ -34,7 +49,6 @@ Leadership | Growth and operation management
   
 ### Other project:
 * Evaluating Malicious web-links with the use of Open-source tools intelligence
-
 
 ### Tools 
 Several tools that I used: 
