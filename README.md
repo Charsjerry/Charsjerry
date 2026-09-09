@@ -8,14 +8,14 @@ integrity and supporting investigations with a keen eye for detail and a commitm
 learning ☕.
 
 ### Certifications:
-* Basics in operation management
-* Security Awareness for Everyone
-* ISO/IEC 27032:2023 Guidelines For Cybersecurity Foundations 
-* Certified Cybersecurity Educator professional (CCEP)
-* Critical Thinking For DPOs - Prerequisite To The Forensic Criminology And Investigations
-* PrivacyOps Certification
-* ISO 31000 Foundation:2018 Risk Management
-* ISO 27001 Foundation - Information Security Certification
+* Basics in operation management https://docs.uniathena.com/prod/user_231148085/certificate/231148085_434_1787914084_certificate.pdf
+* Security Awareness for Everyone https://certs.cyberexam.io/verify/7c22ba6a-b75b-4d83-861d-df8140838e55
+* ISO/IEC 27032:2023 Guidelines For Cybersecurity Foundations https://certification-portal.sandbp.net/certificate-verification-page/138D5D606-734963A337-320DE14/
+* Certified Cybersecurity Educator professional (CCEP) https://courses.redteamleaders.com/exam-completion/cf3084896d3b3ac3
+* Critical Thinking For DPOs - Prerequisite To The Forensic Criminology And Investigations https://portal.msbm.org.uk/student/certificates
+* PrivacyOps Certification https://education.securiti.ai/verification/1276F06CB-1276DF682-12740CA79/
+* ISO 31000 Foundation:2018 Risk Management https://certification-portal.sandbp.net/certificate-verification-page/138D5D606-3306E13-320DE14/
+* ISO 27001 Foundation - Information Security Certification 
   
 
 ### Membership : 
