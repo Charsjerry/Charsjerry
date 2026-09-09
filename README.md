@@ -23,7 +23,7 @@ learning ☕.
 
 
 ### Digital Forensics Projects: 
-* Uvm Assignment Scandal.
+* Uvm Assignment Scandal https://github.com/Charsjerry/UVM-Assignment-Scandal/tree/main
 * Disk imaging and Artifact Recovery in Autopsy.
 * Email Investigation.
 
