@@ -1,0 +1,48 @@
+﻿Created By Exterro® FTK® Imager 4.7.3.81 
+
+Case Information: 
+Acquired using: ADI4.7.3.81
+Case Number: FLASH_001_AP2026
+Evidence Number: 001_AP2026
+Unique description: Deleted Artifacts recovery
+Examiner: DFI Charles jeremiah
+Notes: Simulation on recovering delected Artifacts from a flashdrive
+
+--------------------------------------------------------------
+
+Information for C:\Users\HP\Desktop\AUTOPSY PROJECT\Delected file recovery:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 471
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 7,581,696
+[Physical Drive Information]
+ Drive Model: USB DISK 2.0 USB Device
+ Drive Serial Number: 0C7C17C53090
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 3702 MB
+ Sector count:    7581696
+[Computed Hashes]
+ MD5 checksum:    fa8fa7fcf09e6c6a61ad6bbc24c3a7e2
+ SHA1 checksum:   02f215a0a801b01ccabfe7bfd0164f200ff88497
+
+Image Information:
+ Acquisition started:   Fri Apr 10 12:27:53 2026
+ Acquisition finished:  Fri Apr 10 12:29:48 2026
+ Segment list:
+  C:\Users\HP\Desktop\AUTOPSY PROJECT\Delected file recovery.E01
+  C:\Users\HP\Desktop\AUTOPSY PROJECT\Delected file recovery.E02
+ COMPUTED HASH :  fa8fa7fcf09e6c6a61ad6bbc24c3a7e2
+ COMPUTED HASH :  02f215a0a801b01ccabfe7bfd0164f200ff88497
+
+Image Verification Results:
+ Verification started:  Fri Apr 10 12:29:48 2026
+ Verification finished: Fri Apr 10 12:30:40 2026
+ MD5 checksum:    fa8fa7fcf09e6c6a61ad6bbc24c3a7e2 : verified
+ SHA1 checksum:   02f215a0a801b01ccabfe7bfd0164f200ff88497 : verified
