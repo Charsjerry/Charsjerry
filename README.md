@@ -19,7 +19,7 @@ learning ☕.
   
 
 ### Membership : 
-* Cybersecurity Experts Association of Nigeria(Affiliate member)
+* Cybersecurity Experts Association of Nigeria(Affiliate member) CSEAN
 
 
 ### Digital Forensics Projects: 
